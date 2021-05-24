@@ -16,6 +16,7 @@
 - 日常のおもしろいネタ探し
 
 ## 設計書
+<作成中>
 
 ### 機能一覧
 <https://docs.google.com/spreadsheets/d/10PCsEMx0IgfvmpOhn_mChKDLr_DPPylCiAcRBw8x9EQ/edit#gid=1818406801>
