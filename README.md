@@ -37,4 +37,4 @@
 - （※使用する際に素材などのサービス名とURLを追記予定）
 
 ## 著作権について
-- ゲーム画像のについては営利を目的とせず、投稿することとします。投稿者自身の創作性やコメントが含まれた画像を投稿することとします。　※参考<https://www.nintendo.co.jp/networkservice_guideline/ja/index.html>
+- ゲーム画像については営利を目的とせず、投稿することとします。投稿者自身の創作性やコメントが含まれた画像を投稿することとします。　※参考<https://www.nintendo.co.jp/networkservice_guideline/ja/index.html>
