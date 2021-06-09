@@ -31,7 +31,7 @@
 - 言語：HTML,CSS,JavaScript,Ruby,SQL
 - フレームワーク：Ruby on Rails
 - JSライブラリ：jQuery
-- 仮想環境：Vagrant,VirtualBox
+- 仮想環境：icloud9
 
 ## 使用素材
 - （※使用する際に素材などのサービス名とURLを追記予定）
